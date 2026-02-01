@@ -8,9 +8,9 @@ Personal Claude Code plugin marketplace.
 # Add this marketplace
 /plugin marketplace add cameronsjo/claude-plugins
 
-# Install individual plugins
-/plugin install release-pipelines@cameronsjo
-/plugin install obsidian-dev@cameronsjo
+# Install plugins
+/plugin install release-pipelines
+/plugin install obsidian-dev
 ```
 
 ## Plugins
